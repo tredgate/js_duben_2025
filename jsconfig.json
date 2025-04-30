@@ -7,6 +7,6 @@
       "*": ["src/*"]
     }
   },
-  "include": ["src/**/*.js"],
+  "include": ["src/**/*.js", "tests/**/*.js"],
   "exclude": ["node_modules"]
 }
